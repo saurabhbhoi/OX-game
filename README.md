@@ -1,2 +1,0 @@
-# OX-game
-play game
